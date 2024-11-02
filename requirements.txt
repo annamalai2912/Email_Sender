@@ -1,0 +1,3 @@
+PyQt5==5.15.7
+secure-smtplib==1.0.0
+schedule==1.1.0
